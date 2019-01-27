@@ -43,4 +43,5 @@ As an idea, it could be something like this:
 
 > This repository belongs to ... and contains weekly blogs written by ...
 > for a course in Open Source software development.
+ 
 
