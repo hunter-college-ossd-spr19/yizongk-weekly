@@ -27,15 +27,15 @@ avatar: https://avatars1.githubusercontent.com/u/22630760?s=400&u=62ab37daae8cc2
 footer-links:
   dribbble:
   email: yizongk@gmail.com
-  facebook: https://www.facebook.com/yizong.kuang
+  facebook: yizong.kuang
   flickr:
   github: yizongk       # your GitHub username
-  instagram: https://www.instagram.com/yizongk/
-  linkedin: https://www.linkedin.com/in/yi-zong-kuang/
+  instagram: yizongk/
+  linkedin: yi-zong-kuang/
   pinterest:
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: https://www.youtube.com/user/yizongk      # channel/<your_long_string> or user/<user-name>
+  youtube: user/yizongk      # channel/<your_long_string> or user/<user-name>
   googleplus:    # anything in your profile username that comes after plus.google.com/
 
 # CUSTOMIZE
