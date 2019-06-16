@@ -1,0 +1,7 @@
+learned grep in class
+
+^ = anchors a string, saying that the left side of the string must be the beginning of a line
+$ = anchors a string, saying that the right side of the string must be the end of a line
+. = any characters
+* = any repeating occurrences of a character to the left of the *
+
